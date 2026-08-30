@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18318780128",
+    "project_id": "aurasync-ai-1375f",
+    "storage_bucket": "aurasync-ai-1375f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18318780128:android:77c06ebacc0298eaa05285",
+        "android_client_info": {
+          "package_name": "com.example.aurasync_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrKwBG6VAO3VCjJaVFz5QLDkMKVvE1fiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
